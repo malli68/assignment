@@ -1,4 +1,4 @@
-export const LocationData= [
+export const LocationData=[
     {
       id: 1,
       name: "country1",
