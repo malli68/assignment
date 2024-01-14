@@ -2,7 +2,6 @@ import * as Yup from "yup";
 
 export const validationSchema = Yup.object({
   firstName: Yup.string().required('First Name is required'),
-  lastName: Yup.string(),
   mobile: Yup.number().typeError('Mobile must be a number').required('Mobile is required'),
   email: Yup.string().email('Invalid email address').required('Email is required'),
   qualification: Yup.string().required('Qualification is required'),

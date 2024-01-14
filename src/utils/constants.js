@@ -114,39 +114,3 @@ export const TABLE_HEADERS = [
   "districts",
   "city",
 ];
-// city
-// :
-// ""
-// company
-// :
-// ""
-// country
-// :
-// "1"
-// district
-// :
-// "111"
-// email
-// :
-// "hjgfd@gmail.com"
-// firstName
-// :
-// "hello"
-// lastName
-// :
-// "hiii"
-// mobile
-// :
-// 9876543207
-// position
-// :
-// ""
-// qualification
-// :
-// ""
-// specialization
-// :
-// ""
-// state
-// :
-// "11"
